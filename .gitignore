@@ -7,3 +7,4 @@ venv/
 *.zip
 kaggle*.py
 submission.csv
+.vscode/settings.json
