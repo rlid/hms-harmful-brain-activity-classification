@@ -1,10 +1,11 @@
 .DS_Store
 __pycache__/
+.vscode/
+venv/
 catboost_info/
 data/
-venv/
-*.cat
 *.zip
+*.cat
+*.keras
 kaggle*.py
 submission.csv
-.vscode/settings.json

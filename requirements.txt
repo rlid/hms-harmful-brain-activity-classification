@@ -4,7 +4,11 @@ pyarrow
 matplotlib
 catboost
 keras
+keras_cv
+tensorflow
 scikit-learn
 torch
 torchvision
 torchaudio
+opencv-python
+ipywidgets
