@@ -13,3 +13,4 @@ torchvision
 torchaudio
 opencv-python
 ipywidgets
+librosa
